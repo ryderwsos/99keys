@@ -1,0 +1,13 @@
+img{
+    width: 100%;
+}
+
+.drop-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 50%;
+    border: 2px solid #323232;
+    border-radius: 10%;
+}

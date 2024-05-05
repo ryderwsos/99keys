@@ -6,3 +6,26 @@
     width: 85vw;
     border-radius: 3%;
 }
+
+.floor-select{
+    padding-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    height: 80vh;
+    width: 20vw;
+    border: 2px solid #323232;
+}
+
+.floor-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 20%;
+    border: 2px solid #323232;
+}
+
+h1{
+    font-size: smaller;
+}
